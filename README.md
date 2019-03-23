@@ -10,7 +10,7 @@ Docker image that contains the official Stratis fullnode running on mainnet.
 
 SeedStorm.io provide a blockchain hosting service that allow you to deploy any blockchain in one-click.
 
-## About this Container
+## About this Node
 | Type      | Maintainer          | Network | Development Status | GitHub Repository                                        |
 |-----------|---------------------|---------|--------------------|----------------------------------------------------------|
 | Full Node | stratisplatform.com | mainnet | Stable             | [stratisproject/StratisBitcoinFullNode](https://github.com/stratisproject/StratisBitcoinFullNode)                  |
